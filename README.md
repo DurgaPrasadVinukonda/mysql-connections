@@ -2,6 +2,7 @@
 In this module .If some thing error occurs in mysql work bench How to fix it is available.
 
 *. In My sql command line we write as. here root is the user name and admin is the password   
+![](https://github.com/DurgaPrasadVinukonda/mysql-connections/blob/master/images/ErrorMessage.png)
 
 #### ALTER USER 'root'@'localhost' identified with mysql_native_password BY 'admin'  
 
